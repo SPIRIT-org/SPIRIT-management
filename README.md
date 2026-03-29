@@ -14,9 +14,11 @@ A file to keep track of people working on different areas of the SPIRIT Smartpho
 ## Drivers
 | Section | Person | Status | Notes |
 |-----------|--------|--------|-------|
-| GPS & GSM     | Wanderer | Working | None |
 
 ## OS
+| Section | Person | Status | Notes |
+|-----------|--------|--------|-------|
+| kde-gui     | Wanderer | Working | Fixing build issues |
 
 ## miscellaneous 
 

@@ -18,7 +18,7 @@ A file to keep track of people working on different areas of the SPIRIT Smartpho
 ## OS
 | Section | Person | Status | Notes |
 |-----------|--------|--------|-------|
-| kde-gui     | Wanderer | Working | Fixing build issues |
+| kde-gui     | Wanderer | Working | Debugging boot issues |
 
 ## miscellaneous 
 
